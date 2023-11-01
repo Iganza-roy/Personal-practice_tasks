@@ -1,5 +1,3 @@
-major , this is new.
-
-new file
-
+#intro to c
+This repo contains my personal practice tasks in c language
 
