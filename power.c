@@ -14,7 +14,7 @@ int main()
         }
     else if (units <= 150)
         {
-amount = 200((units-100)*25);
+            amount = 200((units-100)*25);
         }
     else if (units <= 200)
         {
