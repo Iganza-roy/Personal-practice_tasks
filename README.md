@@ -9,5 +9,5 @@ This repo contains personal practice tasks on different languages. most of them 
 - [@Iganza-roy](https://www.github.com/@Iganza-roy)
 
 
-![Logo](https://media.licdn.com/dms/image/D4D16AQFGJRDg2TIq6Q/profile-displaybackgroundimage-shrink_350_1400/0/1695651713709?e=1708560000&v=beta&t=WJmZZwDObvDZVPSJ1RsjIh7-n65rkQfz1qALc6dP6U8)
+![Logo](https://github.com/Iganza-roy/Personal-practice_tasks/blob/main/Black%20and%20Gold%20Classy%20Minimalist%20Circular%20Name%20Logo%20(1).png)
 
