@@ -21,7 +21,7 @@ class Soultion:
 
         rev_x = int(rev_str)
 
-        if rev_x > 2**32 - 1: #checking if value is outside the signed 32-bit...
+        if rev_x > 2**31 - 1: #checking if value is outside the signed 32-bit...
             return 0
 
         return rev_x * sign
@@ -29,3 +29,10 @@ class Soultion:
 #example
 new_1 = Soultion()
 print(new_1.reverse(-231))
+
+new_2 = Soultion()
+print(new_1.reverse(1563847412))
+
+new_1 = Soultion()
+print(new_1.reverse(120))
+
